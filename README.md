@@ -16,4 +16,4 @@ Tutorial: [Click](https://www.youtube.com/watch?v=aGYK2wzY4so) (in Russian)
 ``` 
 
 # 📱 Screenshots
-![Screenshot_20220824_131924](https://user-images.githubusercontent.com/100863585/186394381-77471cc0-6520-4803-b457-d1ac777beb20.png)
+![Screenshot_20220824_132549](https://user-images.githubusercontent.com/100863585/186395757-820ed4ab-5115-4db6-9970-76d1369b8505.png)
