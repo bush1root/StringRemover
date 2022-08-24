@@ -2,7 +2,7 @@
 String Remover from Process Hacker (Work to Minecraft)
 
 # ⚡ How to configure?
-Enter the data as written in the GUI
+Enter the data as written in the GUI  
 Tutorial: [Click](https://www.youtube.com/watch?v=47fI6JxaleM) (in Russian)
 
 # ❓ How it Works?
