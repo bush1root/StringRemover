@@ -2,7 +2,7 @@
 String Remover from Process Hacker (Work to Minecraft)
 
 # ⚡ How to configure?
-Install Modules: pip install pymem / pip install pyqt5
+Install Modules: pip install pymem / pip install pyqt5  
 Enter the data as written in the GUI  
 Tutorial: [Click](https://www.youtube.com/watch?v=aGYK2wzY4so) (in Russian)
 
