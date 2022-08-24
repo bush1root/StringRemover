@@ -109,7 +109,7 @@ class Ui_Dialog(QtWidgets.QDialog):
         self.lineEdit_2.setPlaceholderText(_translate("Dialog", "Address"))
         self.lineEdit_3.setPlaceholderText(_translate("Dialog", "Lenght"))
         self.pushButton_2.setText(_translate("Dialog", "Remove"))
-        self.label_2.setText(_translate("Dialog", "String Remover v1.0 [Author:@ bush1root]"))
+        self.label_2.setText(_translate("Dialog", "String Remover v1.0 [Author: @bush1root]"))
 
     def center(self):
         qr = self.frameGeometry()
